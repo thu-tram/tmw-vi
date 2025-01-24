@@ -1,23 +1,23 @@
 # tmw-vi
 Bản dịch Tiếng Việt của trang TMW
 
-- [Trang chủ](index.md)
+- [Trang chủ](docs/index.md)
 - Hướng dẫn:
-  - [Hướng dẫn chính](guide.md)
-  - [30 ngày Tiếng Nhật](routine.md)
-  - [Nói Tiếng Nhật](speaking.md)
-  - [Tiếng Nhật trong Anime](animejp.md)
-  - [Hướng dẫn học Kanji](kanji.md)
-  - [Mẹo đọc](readingtips.md)
-  - [Hướng dẫn đơn ngữ](monolingual.md)
-  - [Câu hỏi thường gặp](faq.md)
-  - [Sửa phông chữ](font.md)
+  - [Hướng dẫn chính](docs/guide.md)
+  - [30 ngày Tiếng Nhật](docs/routine.md)
+  - [Nói Tiếng Nhật](docs/speaking.md)
+  - [Tiếng Nhật trong Anime](docs/animejp.md)
+  - [Hướng dẫn học Kanji](docs/kanji.md)
+  - [Mẹo đọc](docs/readingtips.md)
+  - [Hướng dẫn đơn ngữ](docs/monolingual.md)
+  - [Câu hỏi thường gặp](docs/faq.md)
+  - [Sửa phông chữ](docs/font.md)
 - Visual Novel:
-  - [Học Tiếng Nhật bằng VN](vn.md)
-  - [Cài đặt Visual Novel](vn-setup.md)
+  - [Học Tiếng Nhật bằng VN](docs/vn.md)
+  - [Cài đặt Visual Novel](docs/vn-setup.md)
 - Yomitan:
-  - [Hướng dẫn cài đặt Yomitan](yomichan.md)      
+  - [Hướng dẫn cài đặt Yomitan](docs/yomichan.md)      
 - Tài nguyên:
-  - [Tài nguyên](resources.md) 
+  - [Tài nguyên](docs/resources.md) 
 - Khác:
-  - [Donate](donate.md)
+  - [Donate](docs/donate.md)
